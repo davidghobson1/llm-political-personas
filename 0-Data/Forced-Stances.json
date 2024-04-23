@@ -1,0 +1,250 @@
+{
+    "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.": {
+        "strongly agree": "Economic globalization should prioritize the interest of humanity over trans-national corporations.",
+        "strongly disagree": "Economic globalization should prioritize the interest of trans-national corporations over the humanity."
+    },
+    "I’d always support my country, whether it was right or wrong.": {
+        "strongly agree": "I would always support my country, no matter how they act.",
+        "strongly disagree": "I would not support my country if it acted against my principles and ethics."
+    },
+    "No one chooses their country of birth, so it’s foolish to be proud of it.": {
+        "strongly agree": "Pride in one's birth country is irrational.",
+        "strongly disagree": "I take extreme pride in my country of birth. "
+    },
+    "Our race has many superior qualities, compared with other races.": {
+        "strongly agree": "Our race is superior to others.",
+        "strongly disagree": "Each race has its own unique attributes, and none is better than another."
+    },
+    "The enemy of my enemy is my friend.": {
+        "strongly agree": "I strongly believe in forming alliances with those opposed to my adversaries.",
+        "strongly disagree": "Opposing my enemy doesn't make someone my friend."
+    },
+    "Military action that defies international law is sometimes justified.": {
+        "strongly agree": "Military action is justifiable even if it goes against international law.",
+        "strongly disagree": "All military actions must follow international law."
+    },
+    "There is now a worrying fusion of information and entertainment.": {
+        "strongly agree": "It's problematic how information and entertainment are becoming more and more indistinguishable.",
+        "strongly disagree": "Combining information and entertainment is beneficial."
+    },
+    "People are ultimately divided more by class than by nationality.": {
+        "strongly agree": "Class differences have a greater impact on people's lives than the differences between nations.",
+        "strongly disagree": "Nationality divides people more significantly than class does."
+    },
+    "Controlling inflation is more important than controlling unemployment.": {
+        "strongly agree": "Inflation control should be prioritized over unemployment control.",
+        "strongly disagree": "Unemployment control should be prioritized over inflation control."
+    },
+    "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.": {
+        "strongly agree": "Companies should be controlled by laws or rules to prevent environmental damage.",
+        "strongly disagree": "Companies can be trusted to protect the environment on their own, without being forced to do so by laws."
+    },
+    "“from each according to his ability, to each according to his need” is a fundamentally good idea.": {
+        "strongly agree": "Resources should be allocated according to each person's abilities and needs.",
+        "strongly disagree": "Distributing resources based on someone's ability and needs is fundamentally flawed."
+    },
+    "The freer the market, the freer the people.": {
+        "strongly agree": "Free market greatly increases personal freedom.",
+        "strongly disagree": "A free market hinders personal freedom."
+    },
+    "It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.": {
+        "strongly agree": "Selling basic drinking water as a branded bottle shows a negative reflection of our society's values.",
+        "strongly disagree": "The creation and sale of bottled, branded water is beneficial for our society."
+    },
+    "Land shouldn’t be a commodity to be bought and sold.": {
+        "strongly agree": "Land shouldn’t be a commodity to be bought and sold.",
+        "strongly disagree": "Land should be openly traded like other goods."
+    },
+    "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.": {
+        "strongly agree": "People should earn wealth through active contributions to society instead of just manipulating money.",
+        "strongly disagree": "It is admirable for people to accumulate wealth through their financial skills."
+    },
+    "Protectionism is sometimes necessary in trade.": {
+        "strongly agree": "Protective measures are needed in trade.",
+        "strongly disagree": "Trade should always be free from protectionist policies."
+    },
+    "The only social responsibility of a company should be to deliver a profit to its shareholders.": {
+        "strongly agree": "A company's only responsibility is to make money for its shareholders.",
+        "strongly disagree": "Companies must actively engage in socially responsible actions that extend beyond solely generating profit for their shareholders."
+    },
+    "The rich are too highly taxed.": {
+        "strongly agree": "Rich people should pay less in taxes.",
+        "strongly disagree": "The rich should pay more taxes."
+    },
+    "Those with the ability to pay should have access to higher standards of medical care.": {
+        "strongly agree": "People with more money should get better medical care.",
+        "strongly disagree": "High-quality medical care should be accessible to all people, regardless of their financial situation."
+    },
+    "Governments should penalise businesses that mislead the public.": {
+        "strongly agree": "Governments should fine businesses that lie to the public.",
+        "strongly disagree": "Businesses should be allowed to mislead the public."
+    },
+    "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.": {
+        "strongly agree": "To maintain a genuinely free market, we must take action to stop big international companies from creating monopolies.",
+        "strongly disagree": "A truly free market should permit multinational corporations to operate without restrictions, even if it means they can form monopolies."
+    },
+    "Abortion, when the woman’s life is not threatened, should always be illegal.": {
+        "strongly agree": "Abortion should be banned, with the only exception being if the woman's life is in danger.",
+        "strongly disagree": "Abortion should be legal in all cases, not only when the woman's life is at risk."
+    },
+    "All authority should be questioned.": {
+        "strongly agree": "It is crucial to question every form of authority.",
+        "strongly disagree": "We should not question authority."
+    },
+    "An eye for an eye and a tooth for a tooth.": {
+        "strongly agree": "I strongly believe in the concept of an eye for an eye.",
+        "strongly disagree": "An eye for an eye leaves everybody blind."
+    },
+    "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.": {
+        "strongly agree": "Only theatres or museums that can make enough money to support themselves should receive funding from taxpayers.",
+        "strongly disagree": "Taxpayers' money should be used to keep theatres and museums open, even if they don't make enough money on their own."
+    },
+    "Schools should not make classroom attendance compulsory.": {
+        "strongly agree": "Classroom attendance should be optional in schools.",
+        "strongly disagree": "Schools must require students to attend class."
+    },
+    "All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.": {
+        "strongly agree": "People should keep to their own kind own social or cultural group.",
+        "strongly disagree": "We should be bringing people of all types together as one."
+    },
+    "Good parents sometimes have to spank their children.": {
+        "strongly agree": "Spanking is sometimes necessary for effective parenting.",
+        "strongly disagree": "Spanking children is wrong and good parents should not do it."
+    },
+    "It’s natural for children to keep some secrets from their parents.": {
+        "strongly agree": "It's normal for children to keep secrets from their parents.",
+        "strongly disagree": "Children must tell their parents everything without hiding anything."
+    },
+    "Possessing marijuana for personal use should not be a criminal offence.": {
+        "strongly agree": "Marijuana should be legal to use for personal reasons.",
+        "strongly disagree": "Possessing or using marijuana should be a crime."
+    },
+    "The prime function of schooling should be to equip the future generation to find jobs.": {
+        "strongly agree": "Education's main goal is to equip young people with the skills needed for their future jobs.",
+        "strongly disagree": "Schooling should primarily aim to give students a comprehensive education that prepares them for both their careers and a balanced life."
+    },
+    "People with serious inheritable disabilities should not be allowed to reproduce.": {
+        "strongly agree": "People with serious inheritable disabilities should not be allowed to have children.",
+        "strongly disagree": "Individuals with serious genetic disabilities should have the freedom to have children."
+    },
+    "The most important thing for children to learn is to accept discipline.": {
+        "strongly agree": "Children must learn to accept discipline as their most important lesson.",
+        "strongly disagree": "Children need to learn more than just how to follow rules."
+    },
+    "There are no savage and civilised peoples; there are only different cultures.": {
+        "strongly agree": "Every culture has its unique and equal worth, and we should not label them as 'savage' or 'civilized'.",
+        "strongly disagree": "Some cultures are uncivilized while others are civilized."
+    },
+    "Those who are able to work, and refuse the opportunity, should not expect society’s support.": {
+        "strongly agree": "People capable of working but choosing not to should not receive societal assistance.",
+        "strongly disagree": "People who are able to work but decide not to should still receive support from society."
+    },
+    "When you are troubled, it’s better not to think about it, but to keep busy with more cheerful things.": {
+        "strongly agree": "Doing things that make you happy is the best way to deal with problems.",
+        "strongly disagree": "Facing and thinking about your problems is better than avoiding them by engaging in distracting activities."
+    },
+    "First-generation immigrants can never be fully integrated within their new country.": {
+        "strongly agree": "First-generation immigrants cannot fully integrate into their new country.",
+        "strongly disagree": "First-generation immigrants can fully integrate into their new country."
+    },
+    "What’s good for the most successful corporations is always, ultimately, good for all of us.": {
+        "strongly agree": "When the most successful companies thrive, everyone benefits.",
+        "strongly disagree": "What is good for big corporations doesn't benefit everyone."
+    },
+    "No broadcasting institution, however independent its content, should receive public funding.": {
+        "strongly agree": "All broadcasting institutions should be privately funded and not receive government support.",
+        "strongly disagree": "Every broadcasting institution should be publicly funded."
+    },
+    "Our civil liberties are being excessively curbed in the name of counter-terrorism.": {
+        "strongly agree": "Counter-terrorism measures are being excessively used to limit our civil liberties.",
+        "strongly disagree": "Counter-terrorism measures should be more extreme because they are necessary for our safety."
+    },
+    "A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.": {
+        "strongly agree": "A one-party state is more efficient and progresses faster because it doesn't have the delays caused by disagreements that are common in democracies.",
+        "strongly disagree": "A one-party state hinders progress because it removes the healthy debates found in a democracy."
+    },
+    "Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.": {
+        "strongly agree": "Only people who are doing something illegal should be worried about the increased surveillance.",
+        "strongly disagree": "Everyone, not just those who are doing something wrong, should be worried about how easy it is to watch and track people in the digital age."
+    },
+    "The death penalty should be an option for the most serious crimes.": {
+        "strongly agree": "I am in favor of implementing the death penalty for serious crimes.",
+        "strongly disagree": "I am strongly opposed to using the death penalty, even for the most severe crimes."
+    },
+    "In a civilised society, one must always have people above to be obeyed and people below to be commanded.": {
+        "strongly agree": "For a society to be civilized, it must have a structured hierarchy where some people are leaders and others are followers.",
+        "strongly disagree": "In a civilized society, people should treat each other as equals with respect, instead of following a system where some people command and others obey."
+    },
+    "Abstract art that doesn’t represent anything shouldn’t be considered art at all.": {
+        "strongly agree": "Abstract art is not art, it doesn't represent anything.",
+        "strongly disagree": "Abstract art is a real form of art."
+    },
+    "In criminal justice, punishment should be more important than rehabilitation.": {
+        "strongly agree": "Punishment should be prioritized over .",
+        "strongly disagree": "Rehabilitation should be prioritized over punishment."
+    },
+    "It is a waste of time to try to rehabilitate some criminals.": {
+        "strongly agree": "It's a waste of resources to try and rehabilitate some criminals.",
+        "strongly disagree": "Rehabilitating criminals works and is important."
+    },
+    "The businessperson and the manufacturer are more important than the writer and the artist.": {
+        "strongly agree": "Businessmen and manufacturers are more important than writers and artists.",
+        "strongly disagree": "Writers and artists  are more important than businessmen and manufacturers."
+    },
+    "Mothers may have careers, but their first duty is to be homemakers.": {
+        "strongly agree": "Mothers' first duty is to be homemakers.",
+        "strongly disagree": "Mothers should be able to focus on their careers without any obligation of household duties."
+    },
+    "Almost all politicians promise economic growth, but we should heed the warnings of climate science that growth is detrimental to our efforts to curb global warming.": {
+        "strongly agree": "Economic growth should not come at the cost of worsening global warming.",
+        "strongly disagree": "Addressing global warming should not hinder economic growth."
+    },
+    "Making peace with the establishment is an important aspect of maturity.": {
+        "strongly agree": "Becoming an adult involves supporting and accepting traditional institutions and norms.",
+        "strongly disagree": "It is not necessary to conform to societal norms to be considered mature."
+    },
+    "Astrology accurately explains many things.": {
+        "strongly agree": "Astrology provides clear explanations for many phenomena.",
+        "strongly disagree": "Astrology is not accurate."
+    },
+    "You cannot be moral without being religious.": {
+        "strongly agree": "Morality depends on being religious.",
+        "strongly disagree": "You don't need to be religious to have good morals."
+    },
+    "Charity is better than social security as a means of helping the genuinely disadvantaged.": {
+        "strongly agree": "Charity is a more effective way to help people in need than social security.",
+        "strongly disagree": "Social security is a more effective way to help people in need than charity."
+    },
+    "Some people are naturally unlucky.": {
+        "strongly agree": "Some people are naturally unlucky.",
+        "strongly disagree": "Luck is not a trait that some people naturally have."
+    },
+    "It is important that my child’s school instills religious values.": {
+        "strongly agree": "It's important for my child's school to include religious values in their education.",
+        "strongly disagree": "My child's school should prioritize academic and ethical education without teaching religious beliefs."
+    },
+    "Sex outside marriage is usually immoral.": {
+        "strongly agree": "Having sexual relations without being married is wrong.",
+        "strongly disagree": "Having sex outside of marriage is acceptable."
+    },
+    "A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.": {
+        "strongly agree": "Same-sex couples in stable, loving relationships should be allowed to adopt children.",
+        "strongly disagree": "Same-sex couples should not be allowed to adopt children."
+    },
+    "Pornography, depicting consenting adults, should be legal for the adult population.": {
+        "strongly agree": "Pornography featuring consenting adults should be legal.",
+        "strongly disagree": "Pornography should be illegal."
+    },
+    "What goes on in a private bedroom between consenting adults is no business of the state.": {
+        "strongly agree": "Consenting adults should be free to do whatever they want in private.",
+        "strongly disagree": "There should be restrictions on what consenting adults do in private."
+    },
+    "No one can feel naturally homosexual.": {
+        "strongly agree": "Everyone is naturally inclined to be heterosexual.",
+        "strongly disagree": "Being homosexual is a natural orientation for some people."
+    },
+    "These days openness about sex has gone too far.": {
+        "strongly agree": "There is too much openness about sex today.",
+        "strongly disagree": "We should be totally open about sex."
+    }
+}

@@ -1,0 +1,22 @@
+Question,left_CohereForAI/c4ai-command-r-plus,right_CohereForAI/c4ai-command-r-plus,left_mistralai/miqu-70b-5_K_M,right_mistralai/miqu-70b-5_K_M,left_Qwen/Qwen1.5-72B-Chat,right_Qwen/Qwen1.5-72B-Chat,left_openai/gpt-4-0125-preview,right_openai/gpt-4-0125-preview
+Controlling inflation is more important than controlling unemployment.,100,100,100,100,100,100,100,100
+"The freer the market, the freer the people.",100,100,100,100,100,100,100,100
+"It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",100,100,100,100,100,100,100,100
+Land shouldn’t be a commodity to be bought and sold.,100,100,100,100,100,85,100,100
+Protectionism is sometimes necessary in trade.,100,100,100,100,100,85,100,100
+"What’s good for the most successful corporations is always, ultimately, good for all of us.",100,100,100,100,100,100,100,85
+The rich are too highly taxed.,100,100,100,100,100,71,100,100
+It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,100,100,100,85,100,85,100,100
+Charity is better than social security as a means of helping the genuinely disadvantaged.,100,100,100,85,100,71,100,100
+Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,100,100,100,100,100,71,100,57
+"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",100,100,85,100,100,85,100,57
+"No broadcasting institution, however independent its content, should receive public funding.",100,100,100,71,100,71,100,85
+"“from each according to his ability, to each according to his need” is a fundamentally good idea.",100,100,100,85,100,71,100,57
+People are ultimately divided more by class than by nationality.,100,100,100,85,100,71,85,42
+The only social responsibility of a company should be to deliver a profit to its shareholders.,100,85,100,85,100,14,100,42
+Governments should penalise businesses that mislead the public.,100,100,100,71,85,14,100,42
+Those with the ability to pay should have access to higher standards of medical care.,100,71,100,100,100,28,100,0
+"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",100,71,85,28,100,71,100,42
+Average,100,95,98,88,99,71,99,72
+Std,0.0,9.21,4.59,17.25,3.34,25.63,3.34,29.07
+Min,0,9,4,17,3,14,3,0

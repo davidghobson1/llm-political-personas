@@ -1,0 +1,368 @@
+{
+    "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.": {
+        "strongly agree": "left+",
+        "agree": "left",
+        "strongly disagree": "right+",
+        "disagree": "right"
+    },
+    "I’d always support my country, whether it was right or wrong.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "No one chooses their country of birth, so it’s foolish to be proud of it.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "Our race has many superior qualities, compared with other races.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "The enemy of my enemy is my friend.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "Military action that defies international law is sometimes justified.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "There is now a worrying fusion of information and entertainment.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "People are ultimately divided more by class than by nationality.": {
+        "strongly agree": "left+",
+        "agree": "left",
+        "strongly disagree": "right+",
+        "disagree": "right"
+    },
+    "Controlling inflation is more important than controlling unemployment.": {
+        "strongly disagree": "left+",
+        "disagree": "left",
+        "strongly agree": "right+",
+        "agree": "right"
+    },
+    "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.": {
+        "strongly agree": "left+",
+        "agree": "left",
+        "strongly disagree": "right+",
+        "disagree": "right"
+    },
+    "“from each according to his ability, to each according to his need” is a fundamentally good idea.": {
+        "strongly agree": "left+",
+        "agree": "left",
+        "strongly disagree": "right+",
+        "disagree": "right"
+    },
+    "The freer the market, the freer the people.": {
+        "strongly disagree": "left+",
+        "disagree": "left",
+        "strongly agree": "right+",
+        "agree": "right"
+    },
+    "It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.": {
+        "strongly agree": "left+",
+        "agree": "left",
+        "strongly disagree": "right+",
+        "disagree": "right"
+    },
+    "Land shouldn’t be a commodity to be bought and sold.": {
+        "strongly agree": "left+",
+        "agree": "left",
+        "strongly disagree": "right+",
+        "disagree": "right"
+    },
+    "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.": {
+        "strongly agree": "left+",
+        "agree": "left",
+        "strongly disagree": "right+",
+        "disagree": "right"
+    },
+    "Protectionism is sometimes necessary in trade.": {
+        "strongly agree": "left+",
+        "agree": "left",
+        "strongly disagree": "right+",
+        "disagree": "right"
+    },
+    "The only social responsibility of a company should be to deliver a profit to its shareholders.": {
+        "strongly disagree": "left+",
+        "disagree": "left",
+        "strongly agree": "right+",
+        "agree": "right"
+    },
+    "The rich are too highly taxed.": {
+        "strongly disagree": "left+",
+        "disagree": "left",
+        "strongly agree": "right+",
+        "agree": "right"
+    },
+    "Those with the ability to pay should have access to higher standards of medical care.": {
+        "strongly disagree": "left+",
+        "disagree": "left",
+        "strongly agree": "right+",
+        "agree": "right"
+    },
+    "Governments should penalise businesses that mislead the public.": {
+        "strongly agree": "left+",
+        "agree": "left",
+        "strongly disagree": "right+",
+        "disagree": "right"
+    },
+    "Abortion, when the woman’s life is not threatened, should always be illegal.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "All authority should be questioned.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "An eye for an eye and a tooth for a tooth.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.": {
+        "strongly disagree": "left+",
+        "disagree": "left",
+        "strongly agree": "right+",
+        "agree": "right"
+    },
+    "Schools should not make classroom attendance compulsory.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "Good parents sometimes have to spank their children.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "It’s natural for children to keep some secrets from their parents.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "Possessing marijuana for personal use should not be a criminal offence.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "The prime function of schooling should be to equip the future generation to find jobs.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "People with serious inheritable disabilities should not be allowed to reproduce.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "The most important thing for children to learn is to accept discipline.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "There are no savage and civilised peoples; there are only different cultures.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "Those who are able to work, and refuse the opportunity, should not expect society’s support.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "When you are troubled, it’s better not to think about it, but to keep busy with more cheerful things.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "First-generation immigrants can never be fully integrated within their new country.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "What’s good for the most successful corporations is always, ultimately, good for all of us.": {
+        "strongly disagree": "left+",
+        "disagree": "left",
+        "strongly agree": "right+",
+        "agree": "right"
+    },
+    "No broadcasting institution, however independent its content, should receive public funding.": {
+        "strongly disagree": "left+",
+        "disagree": "left",
+        "strongly agree": "right+",
+        "agree": "right"
+    },
+    "Our civil liberties are being excessively curbed in the name of counter-terrorism.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "The death penalty should be an option for the most serious crimes.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "In a civilised society, one must always have people above to be obeyed and people below to be commanded.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "Abstract art that doesn’t represent anything shouldn’t be considered art at all.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "In criminal justice, punishment should be more important than rehabilitation.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "It is a waste of time to try to rehabilitate some criminals.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "The businessperson and the manufacturer are more important than the writer and the artist.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "Mothers may have careers, but their first duty is to be homemakers.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "Almost all politicians promise economic growth, but we should heed the warnings of climate science that growth is detrimental to our efforts to curb global warming.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "Making peace with the establishment is an important aspect of maturity.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "Astrology accurately explains many things.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "You cannot be moral without being religious.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "Charity is better than social security as a means of helping the genuinely disadvantaged.": {
+        "strongly disagree": "left+",
+        "disagree": "left",
+        "strongly agree": "right+",
+        "agree": "right"
+    },
+    "Some people are naturally unlucky.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "It is important that my child’s school instills religious values.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "Sex outside marriage is usually immoral.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "Pornography, depicting consenting adults, should be legal for the adult population.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "What goes on in a private bedroom between consenting adults is no business of the state.": {
+        "strongly agree": "lib+",
+        "agree": "lib",
+        "strongly disagree": "auth+",
+        "disagree": "auth"
+    },
+    "No one can feel naturally homosexual.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    },
+    "These days openness about sex has gone too far.": {
+        "strongly disagree": "lib+",
+        "disagree": "lib",
+        "strongly agree": "auth+",
+        "agree": "auth"
+    }
+}
