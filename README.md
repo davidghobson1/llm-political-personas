@@ -1,6 +1,6 @@
 # Measuring Political Bias in Large Language Models via Impersonation and Forced Stances
 
-In this we explore how political personas and explicit stances can reveal biases in large language models.
+In this repo, we explore how political personas and explicit stances can reveal biases in large language models.
 
 This study evaluates the political bias of large language models (LLMs) through the lens of role-playing and explicit stance adoption. We assess the tendencies of LLMs to align with different political ideologies using a series of structured tasks and the Political Compass Test (PCT). Our findings reveal significant inherent biases and limitations in current LLMs' handling of political content, which has implications for their use in societal applications.
 
