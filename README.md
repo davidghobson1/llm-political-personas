@@ -1,6 +1,6 @@
 # Measuring Political Bias in Large Language Models via Impersonation and Forced Stances
 
-This repository is the official implementation of our paper [Measuring Political Bias in Large Language Models via Impersonation and Forced Stances](https://arxiv.org/abs/2030.12345). We explore how political personas and explicit stances can reveal biases in large language models.
+In this we explore how political personas and explicit stances can reveal biases in large language models.
 
 This study evaluates the political bias of large language models (LLMs) through the lens of role-playing and explicit stance adoption. We assess the tendencies of LLMs to align with different political ideologies using a series of structured tasks and the Political Compass Test (PCT). Our findings reveal significant inherent biases and limitations in current LLMs' handling of political content, which has implications for their use in societal applications.
 
@@ -94,7 +94,7 @@ Our evaluations demonstrate varied adherence of LLMs to different political stan
 This project is licensed under the MIT License.
 
 
-## Authors
+## Contributors
 
 * **Jean-Romain Roy** - *Co-author: data generation, forced stance analysis* - [jeanromainroy](https://github.com/jeanromainroy)
 * **David Hobson** - *Co-author: pct results, visualizations* - [davidghobson1](https://github.com/davidghobson1)
